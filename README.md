@@ -22,19 +22,19 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 <br><br><br>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FK-Juyeon&count_bg=%234CFF8B&title_bg=%234D564D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjamie811&count_bg=%234CFF8B&title_bg=%234D564D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <hr>
 
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Juyeon&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamie811&show_icons=true&theme=vue)
 </div>
 
 <br><br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=K-Juyeon&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamie811&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Juyeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamie811&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjuyeon0912)](https://solved.ac/kimjuyeon0912)
 
 <hr>
@@ -46,7 +46,7 @@
   - Learning data selection automation program<br>
 </h5>
 <!--
-**K-Juyeon/K-Juyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jamie811/jamie811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
