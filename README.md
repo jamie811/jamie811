@@ -74,7 +74,8 @@
 
   <br><br>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamie811&show_icons=true&theme=vue)
+
+  ![Juyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamie811&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&locale=kr)
 
 </div>
 
@@ -84,7 +85,7 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamie811&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamie811&layout=compact&theme=vue&hide_border=true&langs_count=8)
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kimjuyeon0912)](https://solved.ac/kimjuyeon0912)
 
 <hr>
