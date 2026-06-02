@@ -75,7 +75,7 @@
   <br><br>
 
 
-  <img src="./profile/stats.svg" />
+  <img src="./profile/stats.svg?v=2" />
 
 </div>
 
@@ -85,7 +85,7 @@
 
 <br><br>
 
-<img src="./profile/top-langs.svg" />
+<img src="./profile/top-langs.svg?v=2" />
 
 <hr>
 
