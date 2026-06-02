@@ -86,7 +86,6 @@
 <br><br>
 
 <img src="./profile/top-langs.svg" />
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kimjuyeon0912)](https://solved.ac/kimjuyeon0912)
 
 <hr>
 
